@@ -13,6 +13,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Ofertas até 30%"
+    "text": "Ofertas até 30%",
+    "link": "https://csimportados.netlify.app/promocoes"
   }
 }
