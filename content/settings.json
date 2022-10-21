@@ -1,7 +1,7 @@
 {
   "domain": "csimportados.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#22f5a0",
+  "primary_color": "#0d56f3",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
