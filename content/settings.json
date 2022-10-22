@@ -1,7 +1,7 @@
 {
   "domain": "csimportados.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#111212",
+  "primary_color": "#844ce3",
   "theme": {
     "bootswatch": "yeti",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/logo_da_loja_2-removebg-preview.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ed0616",
+  "secondary_color": "#844ce3",
   "icon": "/img/uploads/logo_da_loja_2-removebg-preview.png",
   "store_id": 6404,
   "description": "Sua loja de Acessórios",
