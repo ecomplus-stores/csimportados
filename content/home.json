@@ -56,6 +56,11 @@
       "max_hours": 24,
       "start": "2022-10-23T22:11:14.439Z",
       "end": "2022-10-28T22:11:00.000Z"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
