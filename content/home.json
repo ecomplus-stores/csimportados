@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 21000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
           "img": "/img/uploads/rect89.webp",
@@ -21,6 +21,12 @@
           "img": "/img/uploads/arte-cleyton.jpg",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/headphone.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/asa-1-.jpg",
+          "mobile_img": "/img/uploads/asa-1-.jpg"
         }
       ]
     },
