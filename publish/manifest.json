@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.da1d85d2c54261f7bdc457a2099e155a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.737d0d144381052efbfefd277cb794b2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.16b8da71d8864f8248f2dd433016fb7d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.493c4c8264a0561e6053300574585b22.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.20f19478bdb663fae019d2d2b9eb46d6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "CSimportados",
+  "short_name": "CSimportados",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sua loja de Acessórios",
+  "background_color": "#ffffff",
+  "theme_color": "#844ce3"
+}
